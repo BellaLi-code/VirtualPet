@@ -13,9 +13,6 @@ The project demonstrates clean architectural separation (MVC), event-driven prog
 
 ## Screenshots
 
-### Pet Selection Screen
-![Pet Selection](screenshots/pet selection.png)
-
 ### Gameplay Screen
 ![Gameplay](screenshots/gameplay.png)
 
