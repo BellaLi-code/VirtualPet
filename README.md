@@ -11,6 +11,15 @@ The project demonstrates clean architectural separation (MVC), event-driven prog
 - Google Gson (JSON serialization)
 - JUnit (unit testing)
 
+## Screenshots
+
+### Pet Selection Screen
+![Pet Selection](screenshots/pet selection.png)
+
+### Gameplay Screen
+![Gameplay](screenshots/gameplay.png)
+
+
 ## Core Engineering Highlights
 
 ### 🧩 MVC Architecture
